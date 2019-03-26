@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Zones>
+  <Zone>
+    <TZ>America/New_York</TZ>
+    <WindowsTimeZone>Eastern Standard Time</WindowsTimeZone>
+  </Zone>
+  <Zone>
+    <TZ>Europe/Berlin</TZ>
+    <WindowsTimeZone>W. Europe Standard Time</WindowsTimeZone>
+  </Zone>  
+  <Zone>
+    <TZ>Europe/Lisbon</TZ>
+    <WindowsTimeZone>GMT Standard Time</WindowsTimeZone>
+  </Zone>  
+  <Zone>
+    <TZ>Europe/Prague</TZ>
+    <WindowsTimeZone>Central Europe Standard Time</WindowsTimeZone>
+  </Zone>
+  <Zone>
+    <TZ>CET</TZ>
+    <WindowsTimeZone>Central Europe Standard Time</WindowsTimeZone>
+  </Zone>
+  <Zone>
+    <TZ>UTC</TZ>
+    <WindowsTimeZone>UTC</WindowsTimeZone>
+  </Zone>
+</Zones>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"
+          loadImage="LoadImage"
+          onLoad="LoadRibbon">
+  <ribbon>
+    <tabs>
+      <tab id="Synchronize" label="Synchronize">
+        <group id="GoogleGroup" label="Google">
+          <toggleButton id="SyncGoogleToggleButton" label="Google" size="large" onAction="SyncGoogle" getPressed="GetPressed" image="Logo" />
+          <button id="FolderButton" label="Folder to synchronize" size="large" onAction="ChooseFolder" />
+          <button id="UnpairButton" label="Unpair items" size="large" onAction="Unpair"/>
+        </group >
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
